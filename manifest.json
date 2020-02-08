@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Simple Qurl (QR Code from URL)",
-  "description": "It creates a QR Code from the url of the current tab.\nIf the URL is longer than 150 characters, it uses the 0x0.st's URL Shortener function.\nSource code : https://frama.link/TYVvjamJ\n\nThanks to davidshimjs : https://github.com/davidshimjs",
+  "description": "It creates a QR Code from the url of the current tab.\nIf the URL is longer than 150 characters, it uses the 0x0.st's URL Shortener function.\nSource code : https://github.com/Max1Truc/SimpleQurl\n\nThanks to davidshimjs : https://github.com/davidshimjs",
   "version": "1.15.2",
   "browser_action": {
     "default_icon": "icon.png",
