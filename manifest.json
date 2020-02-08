@@ -14,7 +14,8 @@
     "96": "icon-96.png"
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "http://0x0.st/*"
   ],
   "developer": {
     "name": "Max1Truc",
